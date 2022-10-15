@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FoodDeliveryTestApp</string>
+    <string name="title_menu">Меню</string>
+    <string name="title_profile">Профиль</string>
+    <string name="title_shoppingCart">Корзина</string>
+    <string name="title">Название</string>
+    <string name="secondary_text">Описание товара</string>
+    <string name="price">от %s р</string>
+    <string name="profile_text">Здесь профиль!</string>
+    <string name="shop_text">Здесь корзина!</string>
+    <string name="menuCity">Тут выбор города</string>
+    <string name="current_city">Москва</string>
+</resources>
